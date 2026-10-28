@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800"
+     height="390"
+     viewBox="0 0 800 390"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Mathesh S Developer Terminal</title>
+  <desc id="desc">
+    A terminal-themed developer profile displaying Mathesh's
+    Java development interests, education, and current goals.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071521"/>
+      <stop offset="100%" stop-color="#10102b"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <style>
+      .mono {
+        font-family: "Courier New", monospace;
+      }
+
+      .muted {
+        fill: #8294a8;
+      }
+
+      .white {
+        fill: #e6edf3;
+      }
+
+      .cyan {
+        fill: #00f7ff;
+      }
+
+      .green {
+        fill: #50fa7b;
+      }
+
+      .purple {
+        fill: #bd93f9;
+      }
+
+      .label {
+        fill: #8294a8;
+        font-size: 14px;
+      }
+
+      .value {
+        fill: #e6edf3;
+        font-size: 14px;
+      }
+
+      .cursor {
+        animation: blink 1s steps(2, start) infinite;
+      }
+
+      .glow {
+        animation: pulse 3s ease-in-out infinite;
+      }
+
+      @keyframes blink {
+        to {
+          visibility: hidden;
+        }
+      }
+
+      @keyframes pulse {
+        0%, 100% {
+          opacity: 0.65;
+        }
+        50% {
+          opacity: 1;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="390" rx="18"
+        fill="url(#background)"/>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="798" height="388" rx="17"
+        fill="none" stroke="#26394d" stroke-width="2"/>
+
+  <!-- Terminal title bar -->
+  <path d="M18 1 H782 Q799 1 799 18 V52 H1 V18 Q1 1 18 1Z"
+        fill="#17283a"/>
+
+  <circle cx="25" cy="27" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="27" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="27" r="6" fill="#27c93f"/>
+
+  <text x="400" y="32"
+        class="mono muted"
+        font-size="14"
+        text-anchor="middle">
+    mathesh@developer: ~
+  </text>
+
+  <!-- Terminal prompt -->
+  <text x="28" y="83" class="mono cyan" font-size="15">
+    mathesh@github:~$
+  </text>
+
+  <text x="208" y="83" class="mono white" font-size="15">
+    ./about-me.sh
+  </text>
+
+  <!-- Identity -->
+  <text x="28" y="126"
+        class="mono cyan glow"
+        font-size="29"
+        font-weight="bold">
+    MATHESH S
+  </text>
+
+  <text x="28" y="151" class="mono muted" font-size="14">
+    Java Developer | Cyber Security Student
+  </text>
+
+  <rect x="28" y="169" width="744" height="1"
+        fill="#26394d"/>
+
+  <!-- Developer information -->
+  <g class="mono">
+    <text x="30" y="201" class="label">EDUCATION</text>
+    <text x="190" y="201" class="value">
+      Cyber Security Engineering
+    </text>
+
+    <text x="30" y="231" class="label">LANGUAGES</text>
+    <text x="190" y="231" class="cyan" font-size="14">
+      Java · C · C++ · SQL
+    </text>
+
+    <text x="30" y="261" class="label">BACKEND</text>
+    <text x="190" y="261" class="purple" font-size="14">
+      Spring Boot · REST APIs
+    </text>
+
+    <text x="30" y="291" class="label">DATABASES</text>
+    <text x="190" y="291" class="value">
+      MySQL · PostgreSQL
+    </text>
+
+    <text x="30" y="321" class="label">CURRENT FOCUS</text>
+    <text x="190" y="321" class="green" font-size="14">
+      DSA + Backend Development
+    </text>
+  </g>
+
+  <!-- Bottom status -->
+  <rect x="20" y="342" width="760" height="32" rx="7"
+        fill="#14283a"/>
+
+  <circle cx="37" cy="358" r="5" fill="#50fa7b"/>
+
+  <text x="50" y="363" class="mono green" font-size="12">
+    STATUS: LEARNING &amp; BUILDING
+  </text>
+
+  <text x="755" y="363"
+        class="mono muted"
+        font-size="12"
+        text-anchor="end">
+    SYSTEM ONLINE
+  </text>
+
+  <!-- Animated cursor -->
+  <rect x="28" y="84" width="8" height="15"
+        fill="#00f7ff" class="cursor"
+        transform="translate(355,-1)"/>
+
+</svg>
