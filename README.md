@@ -119,6 +119,20 @@ Goal       : Become a skilled Software Developer
 
 ---
 
+## 💻 Developer Dashboard
+
+<div align="center">
+
+<a href="https://github.com/Mathesh3005">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathesh3005&theme=tokyonight"
+    width="100%"
+    alt="GitHub profile contribution summary"
+  />
+</a>
+
+</div>
+
 ## 🔥 Contribution Streak
 
 <div align="center">
