@@ -168,27 +168,19 @@ Goal       : Become a skilled Software Developer
 ---
 
 
-## 🗓️ Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathesh3005&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+## 🗓️ Contribution Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mathesh3005&theme=github-compact&hide_border=true&area=true"
+  alt="Mathesh's GitHub Contribution Graph"
+  width="100%"
+/>
 
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Mathesh3005">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathesh3005&repo=Mathesh3005&theme=tokyonight&hide_border=true" alt="GitHub Profile Repository" />
-</a>
-
-</div>
-
-> More projects coming soon! Visit my GitHub repositories to explore my work.
 
 ---
 
