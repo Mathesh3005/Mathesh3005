@@ -168,15 +168,21 @@ Goal       : Become a skilled Software Developer
 ---
 
 
-## 📅 Contribution Graph
+## 📅 Contribution Calendar
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathesh3005&theme=github_dark"
-  alt="Mathesh's GitHub Contribution Summary"
+  src="https://ghchart.rshah.org/00F7FF/Mathesh3005"
+  alt="Mathesh's GitHub contribution calendar"
   width="100%"
 />
+
+<br/>
+
+<a href="https://github.com/Mathesh3005">
+  View my GitHub profile and full contribution history →
+</a>
 
 </div>
 ---
@@ -198,19 +204,21 @@ Goal       : Become a skilled Software Developer
 
 <div align="center">
 
-<a href="https://github.com/Mathesh3005" target="_blank">
+<a href="https://github.com/Mathesh3005">
   <img
-    src="https://img.shields.io/badge/GitHub-Mathesh3005-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Visit my GitHub profile"
-    height="40"
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    alt="GitHub"
+    width="64"
+    height="64"
   />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mathesh-s-261222330" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mathesh-s-261222330">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Connect with me on LinkedIn"
-    height="40"
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    alt="LinkedIn"
+    width="64"
+    height="64"
   />
 </a>
 
