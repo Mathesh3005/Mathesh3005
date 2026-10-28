@@ -159,30 +159,19 @@ Goal       : Become a skilled Software Developer
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/00F7FF/Mathesh3005"
-  alt="Mathesh's GitHub contribution calendar"
+  src="https://ghchart.rshah.org/Mathesh3005"
+  alt="Mathesh's GitHub Contribution Calendar"
   width="100%"
 />
 
 <br/>
 
 <a href="https://github.com/Mathesh3005">
-  View my GitHub profile and full contribution history →
+  View my GitHub profile →
 </a>
 
 </div>
 ---
-
-## 🎯 Current Goals
-
-```text
-[+] Strengthen Java fundamentals and OOP
-[+] Practise Data Structures and Algorithms
-[+] Build REST APIs using Spring Boot
-[+] Improve SQL and database design skills
-[+] Develop real-world software projects
-[+] Prepare for software developer opportunities
-```
 
 ---
 
@@ -192,19 +181,19 @@ Goal       : Become a skilled Software Developer
 
 <a href="https://github.com/Mathesh3005">
   <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    alt="GitHub"
+    src="./assets/github.svg"
     width="64"
     height="64"
+    alt="GitHub Profile"
   />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mathesh-s-261222330">
   <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    alt="LinkedIn"
+    src="./assets/linkedin.svg"
     width="64"
     height="64"
+    alt="LinkedIn Profile"
   />
 </a>
 
