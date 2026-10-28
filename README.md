@@ -168,20 +168,17 @@ Goal       : Become a skilled Software Developer
 ---
 
 
+## 📅 Contribution Graph
+
 <div align="center">
 
-## 🗓️ Contribution Graph
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mathesh3005&theme=github-compact&hide_border=true&area=true"
-  alt="Mathesh's GitHub Contribution Graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathesh3005&theme=github_dark"
+  alt="Mathesh's GitHub Contribution Summary"
   width="100%"
 />
 
 </div>
-
----
-
 ---
 
 ## 🎯 Current Goals
@@ -201,12 +198,20 @@ Goal       : Become a skilled Software Developer
 
 <div align="center">
 
-<a href="https://github.com/Mathesh3005">
-<img src="https://img.shields.io/badge/GitHub-Mathesh3005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<a href="https://github.com/Mathesh3005" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-Mathesh3005-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Visit my GitHub profile"
+    height="40"
+  />
 </a>
-
-<a href="https://www.linkedin.com/in/mathesh-s-261222330">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+&nbsp;
+<a href="https://www.linkedin.com/in/mathesh-s-261222330" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with me on LinkedIn"
+    height="40"
+  />
 </a>
 
 </div>
