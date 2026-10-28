@@ -139,26 +139,26 @@ Goal       : Become a skilled Software Developer
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Contribution Streak
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mathesh3005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mathesh's GitHub Statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh3005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
-
-</div>
-
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mathesh3005&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Mathesh3005&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="Mathesh's GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh3005&theme=tokyonight&hide_border=true"
+        alt="Mathesh's GitHub Contribution Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -180,6 +180,8 @@ Goal       : Become a skilled Software Developer
 </a>
 
 </div>
+
+
 ---
 
 
@@ -201,7 +203,7 @@ Goal       : Become a skilled Software Developer
 
 </div>
 
----
+
 
 <div align="center">
 
