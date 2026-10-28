@@ -101,15 +101,18 @@ Goal       : Become a skilled Software Developer
 
 <br/>
 
+
 <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,spring,nodejs,mysql,postgres,git,github,vscode,idea,postman&perline=8" alt="Languages, frameworks and tools"/>
 
-<br/><br/>
+<br/>
 
 ## ☁️ Deployment & Cloud
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=githubactions,vercel,kubernetes,firebase,docker&perline=4" alt="Deployment and cloud tools"/>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=githubactions,vercel,kubernetes,firebase,docker&perline=4" alt="Deployment and cloud tools"/>
+</p>
 
 </div>
 
