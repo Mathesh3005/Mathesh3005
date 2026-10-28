@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mathesh3005&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views" />
+
 
 </div>
 
@@ -62,10 +62,13 @@ Goal       : Become a skilled Software Developer
   </tr>
 </table>
 
-## ⚡ Tech Stack
+
 
 <!-- ABOUT ME -->
 <div align="center">
+
+
+
 
 ## 👋 Hi, I'm Mathesh S
 
@@ -80,15 +83,16 @@ Goal       : Become a skilled Software Developer
 <br/>
 
 <a href="https://github.com/Mathesh3005">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+ <img src="https://skillicons.dev/icons?i=github&perline=8" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/mathesh-s-261222330">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&perline=8" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
+
 
 <!-- TECHNOLOGY STACK -->
 <div align="center">
@@ -105,11 +109,12 @@ Goal       : Become a skilled Software Developer
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=githubactions,vercel,firebase,docker&perline=4" alt="Deployment and cloud tools"/>
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,kubernetes,firebase,docker&perline=4" alt="Deployment and cloud tools"/>
 
 </div>
 
 ---
+
 
 ## 🐍 My Contribution Journey
 
@@ -131,6 +136,9 @@ Goal       : Become a skilled Software Developer
   </picture>
 </div>
 
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -140,6 +148,7 @@ Goal       : Become a skilled Software Developer
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh3005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
 
 </div>
+
 
 ---
 
@@ -173,28 +182,21 @@ Goal       : Become a skilled Software Developer
 </div>
 ---
 
+
 ---
 
-## 🌐 Connect With Me
+
 
 <div align="center">
+  
+## 🌐 Connect With Me
 
 <a href="https://github.com/Mathesh3005">
-  <img
-    src="./assets/github.svg"
-    width="64"
-    height="64"
-    alt="GitHub Profile"
-  />
+  <img src="https://skillicons.dev/icons?i=github&perline=8" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mathesh-s-261222330">
-  <img
-    src="./assets/linkedin.svg"
-    width="64"
-    height="64"
-    alt="LinkedIn Profile"
-  />
+  <img src="https://skillicons.dev/icons?i=linkedin&perline=8" alt="LinkedIn"/>
 </a>
 
 </div>
