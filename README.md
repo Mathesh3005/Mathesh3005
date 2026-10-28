@@ -37,6 +37,16 @@ Goal       : Become a skilled Software Developer
 
 ---
 
+## 🖥️ Developer Terminal
+
+<div align="center">
+  <img
+    src="./assets/terminal.svg"
+    width="100%"
+    alt="Mathesh S Developer Terminal"
+  />
+</div>
+
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
