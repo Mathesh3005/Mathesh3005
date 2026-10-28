@@ -37,28 +37,30 @@ Goal       : Become a skilled Software Developer
 
 ---
 
-## 🖥️ Developer Terminal
+## 👨‍💻 My Developer Setup
 
-<div align="center">
-  <img
-    src="./assets/terminal.svg"
-    width="100%"
-    alt="Mathesh S Developer Terminal"
-  />
-</div>
-
-## 👨‍💻 My ASCII Portrait
-
-<div align="center">
-  <img
-    src="./assets/ascii-portrait.png"
-    alt="Mathesh's cyberpunk ASCII portrait"
-    width="700"
-  />
-  <br />
-
-  <i>Turning code into creativity.</i>
-</div>
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="./assets/ascii-portrait.png"
+        alt="Mathesh's ASCII Portrait"
+        width="100%"
+      />
+      <br />
+      <strong>Mathesh S</strong>
+      <br />
+      <sub>Java Developer</sub>
+    </td>
+    <td width="65%" align="center" valign="middle">
+      <img
+        src="./assets/terminal.svg"
+        alt="Mathesh's Developer Terminal"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Tech Stack
 
