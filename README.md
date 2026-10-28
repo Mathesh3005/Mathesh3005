@@ -47,6 +47,19 @@ Goal       : Become a skilled Software Developer
   />
 </div>
 
+## 👨‍💻 My ASCII Portrait
+
+<div align="center">
+  <img
+    src="./assets/ascii-portrait.png"
+    alt="Mathesh's cyberpunk ASCII portrait"
+    width="700"
+  />
+  <br />
+
+  <i>Turning code into creativity.</i>
+</div>
+
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
