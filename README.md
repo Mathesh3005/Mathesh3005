@@ -64,48 +64,50 @@ Goal       : Become a skilled Software Developer
 
 ## ⚡ Tech Stack
 
-### 💻 Programming Languages
+<!-- ABOUT ME -->
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+## 👋 Hi, I'm Mathesh S
 
-### ⚙️ Backend Development
+### 💻 Java Developer | 🔐 Cyber Security Student
 
-<p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-</p>
+🎓 Engineering student at Sethu Institute of Technology.
 
-### 🗄️ Databases
+☕ Interested in Java, backend development, and software engineering.
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+🚀 Building projects and improving my problem-solving skills.
 
-### 🌐 Frontend
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
+<a href="https://github.com/Mathesh3005">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mathesh-s-261222330">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-### 🛠️ Tools & Platforms
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+---
+
+<!-- TECHNOLOGY STACK -->
+<div align="center">
+
+## 🔥 Languages • Frameworks • Tools 🔥
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,spring,nodejs,mysql,postgres,git,github,vscode,idea,postman&perline=8" alt="Languages, frameworks and tools"/>
+
+<br/><br/>
+
+## ☁️ Deployment & Cloud
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,firebase,docker&perline=4" alt="Deployment and cloud tools"/>
+
+</div>
 
 ---
 
