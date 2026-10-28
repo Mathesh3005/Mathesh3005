@@ -166,28 +166,6 @@ Goal       : Become a skilled Software Developer
 ---
 
 
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img
-  src="https://ghchart.rshah.org/Mathesh3005"
-  alt="Mathesh's GitHub Contribution Calendar"
-  width="100%"
-/>
-
-<br/>
-
-<a href="https://github.com/Mathesh3005">
-  View my GitHub profile →
-</a>
-
-</div>
-
-
----
-
-
 ---
 
 
