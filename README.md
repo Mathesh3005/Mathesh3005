@@ -144,24 +144,22 @@ Goal       : Become a skilled Software Developer
 
 ## 📊 GitHub Statistics & Contribution Streak
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Mathesh3005&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="Mathesh's GitHub Statistics"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh3005&theme=tokyonight&hide_border=true"
-        alt="Mathesh's GitHub Contribution Streak"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<tr>
+  <td width="50%" align="center" valign="middle">
+    <img
+      src="./profile/stats.svg"
+      alt="Mathesh's GitHub Statistics"
+      width="100%"
+    />
+  </td>
+  <td width="50%" align="center" valign="middle">
+    <img
+      src="./profile/top-langs.svg"
+      alt="Mathesh's Top Languages"
+      width="100%"
+    />
+  </td>
+</tr>
 
 ---
 
