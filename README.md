@@ -143,20 +143,19 @@ Goal       : Become a skilled Software Developer
 ---
 
 ## 📊 GitHub Statistics & Contribution Streak
-
-<table>
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
         src="./profile/stats.svg"
-        alt="GitHub Statistics"
+        alt="Mathesh's GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
         src="./profile/top-langs.svg"
-        alt="Top Languages"
+        alt="Most Used Languages"
         width="100%"
       />
     </td>
