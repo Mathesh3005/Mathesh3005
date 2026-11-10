@@ -102,7 +102,7 @@ Goal       : Become a skilled Software Developer
 <br/>
 
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,spring,nodejs,mysql,postgres,git,github,vscode,idea,postman&perline=8" alt="Languages, frameworks and tools"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,typescript,angular,spring,nodejs,mysql,postgres,git,github,vscode,idea,postman&perline=8" alt="Languages, frameworks and tools"/>
 
 <br/>
 
